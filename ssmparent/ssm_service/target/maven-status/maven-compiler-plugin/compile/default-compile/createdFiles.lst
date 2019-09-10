@@ -1,2 +1,4 @@
 com\demo1\service\impl\ItemsServiceImpl.class
+com\demo1\service\UserService.class
+com\demo1\service\impl\UserServiceimpl.class
 com\demo1\service\ItemsService.class

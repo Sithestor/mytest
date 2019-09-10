@@ -1,2 +1,4 @@
 com\demo1\dao\ItemsMapper.class
+com\demo1\pojo\User.class
+com\demo1\dao\UserMapper.class
 com\demo1\pojo\Items.class
